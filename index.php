@@ -60,7 +60,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-         bla bla bla
+         Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
@@ -72,7 +75,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-          bla bla bla
+          Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
@@ -84,7 +90,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-          bla bla bla
+          Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
@@ -96,7 +105,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-          bla bla bla
+          Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
@@ -108,7 +120,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-          bla bla bla
+          Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
@@ -120,7 +135,10 @@
         <h1> Contoh Desain yang kami Tawarkan </h1>
         <hr>
         <p>
-          bla bla bla
+          Luigi's desain adalah sebuah startup jasa desain yang melayani segala kebutuhan seperti Branding,Digital Marketing, Fotografi dan desain Grafis seperti Desain Poster,Logo, Company Profil,Brosur dll. Keunggulan : 
+✅harga ekonomis dan nggak bikin kantong tipis✅layanan sesuai konsep
+✅mengutamakan kepuasan pelanggan.
+GARANSI UANG KEMBALI!!!, Luigi's Desain solusi segala kebutuhan desain anda.
         </p>        
         <a href="#" class="continue-lendo">Selengkapnya →</a>
       </div>
